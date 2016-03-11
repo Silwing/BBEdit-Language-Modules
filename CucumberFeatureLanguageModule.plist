@@ -41,6 +41,17 @@
     <string>Entao</string>
     <string>E</string>
     <string>Mas</string>
+    
+    <string>Egenskab</string>
+    <string>Baggrund</string>
+    <string>Scenarie</string>
+    <string>Abstrakt Scenario</string>
+    <string>Eksempler</string>
+    <string>Givet</string>
+    <string>Når</string>
+    <string>Så</string>
+    <string>Og</string>
+    <string>Men</string>
   </array>
   <key>BBLMSuffixMap</key>
   <array>
